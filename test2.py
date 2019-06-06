@@ -1,2 +1,1 @@
-gfhgfhghhgf
-ffghgh
+print("Test 2 Program")

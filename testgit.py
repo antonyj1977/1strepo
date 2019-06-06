@@ -1,2 +1,1 @@
-ffddsd
-dddddfgfdg
+print("Test Git Program")
